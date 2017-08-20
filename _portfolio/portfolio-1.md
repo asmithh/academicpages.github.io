@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: “Analysis of Link Behavior in the Gamergate Controversy“
+excerpt: "A project with Nate Matias that was a continuation of work I did during my summer 2015 internship at the Berkman Center.<br/><a href “https://mediacloud.org/news/2017/7/19/bridges-or-hate-links-the-meaning-of-common-links-in-media-conflict”>”
 collection: portfolio
 ---
 
